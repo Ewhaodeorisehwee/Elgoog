@@ -1,0 +1,15 @@
+echo "# Elgoog" >>  I'm elgooG.im.md
+git init Google Mirror - I'm elgooG
+git init elgoog.im
+git init 
+
+git add elgooG.im.md
+
+git commit -m "Official Google Easter Eggs"
+
+git branch -M  Killed by Google, restored by elgooG
+
+
+git remote add origin https://github.com/Ewhaodeorisehwee/Elgoog.im
+
+git push -u origin elgoog.im
